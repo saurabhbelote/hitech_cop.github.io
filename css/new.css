@@ -1,0 +1,51 @@
+div.hvr-icon {
+    height: auto;
+    border: 1px solid rgb(241, 236, 236);
+
+  }
+
+h3.intro-text{
+    height: 500px;
+    width:1000px;
+    color: rgb(113, 113, 175); 
+}  
+
+h1.intro-text:hover{
+    color: rgb(111, 203, 226);
+}
+
+.click-here.static{
+  position: static;
+  border: 3px solid #73AD21;
+
+}
+
+div.click-{
+  color: aliceblue;
+}
+
+.myfieldclass  {
+  color:rgb(5, 0, 0);
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:300;
+  font-size: 15px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #CC6666;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-left: -15px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:2px solid #ec6b38; }
+
+textarea {
+  height: 80px;
+  line-height: 80%;
+  resize:vertical;
+}
